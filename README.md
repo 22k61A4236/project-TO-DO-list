@@ -1,4 +1,4 @@
 # Todo-List-App
-Build a Todo List App in HTML CSS JavaScript | EASY BEGINNER TUTORIAL
 
-This is the perfect project for beginner web developers who are looking to expand their knowledge of HTML CSS and JavaScript. This beginner JavaScript tutorial will teach you how to use local browser storage to create a fully functional todo list app!
+
+A To-Do List is a simple and effective tool used to organize tasks and manage time. It is a written or digital list of tasks that need to be completed, typically ordered by priority or deadline. To-do lists help individuals stay focused, reduce stress, and improve productivity.
